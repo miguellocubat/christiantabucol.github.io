@@ -1,0 +1,41 @@
+/* style.css */
+
+/* Add styles for header */
+header {
+    text-align: center;
+    background-color: #2bff00;
+    color: #fff;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+/* Add styles for navigation */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Add styles for sections, footer, etc. */
+section {
+    padding: 30px;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
